@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/RotationTrigger.uasset",
+				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Maps/PvPMap1.umap",
 				"C:/Users/danie/OneDrive/Documents/Unreal Projects/group3/GAME310_GravGunner/Content/FirstPerson/Maps/PvPMap1.umap",
 				"C:/Users/danie/OneDrive/Documents/Unreal Projects/group3/GAME310_GravGunner/Content/FirstPerson/Maps/_GENERATED/danie/CubeGridToolOutput_25222DF6.uasset",
 				"C:/Users/danie/OneDrive/Documents/Unreal Projects/group3/GAME310_GravGunner/Content/FirstPerson/Maps/_GENERATED/danie/CubeGridToolOutput_DE1E6730.uasset",
