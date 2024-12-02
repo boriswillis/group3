@@ -61,6 +61,7 @@
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Maps/PvPMap1.umap",
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/AIEnemy/EnemySpawner.uasset",
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/AIEnemy/Tasks/BTTask_LookAtPlayer.uasset",
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/AIEnemy/Enemy_AIController_BP.uasset",
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/AIEnemy/FindCover.uasset",
 				"C:/Users/Owner/Documents/GitHub/group3/GAME310_GravGunner/Content/FirstPerson/Blueprints/EnemyAI/Tasks/BTTask_ClearBBValue.uasset",
